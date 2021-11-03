@@ -1,3 +1,2 @@
-# Humberto-proyecto
-trabajo de Humberto
-Hola mi nombre es Jair 
+# REPOSITORIO TALLER DE PROGRAMACIÓN
+Jair Ventosilla Gutierrez
